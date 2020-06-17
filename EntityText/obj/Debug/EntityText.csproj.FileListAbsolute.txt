@@ -1,0 +1,13 @@
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityText.exe.config
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityText.exe
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityText.pdb
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityFramework.dll
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityFramework.SqlServer.dll
+E:\vietc#\EntityText\EntityText\bin\Debug\System.ComponentModel.Annotations.dll
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityFramework.xml
+E:\vietc#\EntityText\EntityText\bin\Debug\EntityFramework.SqlServer.xml
+E:\vietc#\EntityText\EntityText\obj\Debug\EntityText.csprojAssemblyReference.cache
+E:\vietc#\EntityText\EntityText\obj\Debug\EntityText.csproj.CoreCompileInputs.cache
+E:\vietc#\EntityText\EntityText\obj\Debug\EntityText.csproj.CopyComplete
+E:\vietc#\EntityText\EntityText\obj\Debug\EntityText.exe
+E:\vietc#\EntityText\EntityText\obj\Debug\EntityText.pdb
